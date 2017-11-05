@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8" />
+		<title>CHANNEL CHIC</title>
+		<meta name="Description" content="CHANNEL CHIC电子商城可以给您提供最流行前沿的时尚单品，涵盖了男装，女装，童装。款式丰富，价格实惠。是您网上购物不二的选择。" />
+		<meta name="Keywords" content="时装，服装，fashion,chic,流行，趋势，男装，女装，童装，外贸，尾单，品牌" />
+	</head>
+
+	<body>
+		<h1>CHANNEL CHIC</h1>
+		<br></br>
+		<h3>Styles</h3>
+		<a href="https://detail.1688.com/offer/540325987384.html?spm=a261b.2187593.1998088710.56.Qr43IO&tracelog=p4p"><img src="img/5393678837_1822143903.jpg" alt="mens padding parka" title="男士棉服" /></a>
+
+		<br />
+		<input type="text" placeholder="channel chic" />
+		<a href="https://detail.1688.com/offer/540325987384.html?spm=a261b.2187593.1998088710.56.Qr43IO&tracelog=p4p"><input type="button" value="search" /></a>
+
+	</body>
+
+</html>
